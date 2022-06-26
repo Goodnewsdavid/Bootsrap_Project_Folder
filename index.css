@@ -1,0 +1,19 @@
+@media(min-width:868px){
+    .news-input{
+     
+        width: 50%;
+    }
+
+}
+
+body::before{
+    content: '';
+    height: 60px;
+    display: block;
+}
+
+@media(max-width:450px){
+    .container{
+        background: blueviolet !important;
+    }
+}
